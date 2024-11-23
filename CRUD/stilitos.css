@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(240, 248, 255); /* Azul claro elegante */
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    color: #333333; /* Texto en gris oscuro */
+}
+
+button {
+    font-size: xx-large;
+    background-color: #f7f9fc; /* Blanco suave */
+    color: #3a3a3a; /* Gris oscuro */
+    padding: 15px 30px;
+    border: 2px solid #3a7dd1; /* Azul principal */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: #3a7dd1; /* Azul principal */
+    color: #ffffff;
+}
+
+.brayan, .boton {
+    font-size: xx-large;
+    background-color: #f7f9fc;
+    color: #3a3a3a;
+    padding: 15px 30px;
+    border: 2px solid #38c172; /* Verde principal */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.brayan:hover, .boton:hover {
+    background-color: #38c172; /* Verde principal */
+    color: #ffffff;
+}
+
+.brayan1 {
+    font-size: xx-large;
+    background-color: #f7f9fc;
+    color: #3a3a3a;
+    padding: 15px 30px;
+    border: 2px solid #f05d5e; /* Rojo suave */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.brayan1:hover {
+    background-color: #f05d5e; /* Rojo suave */
+    color: #ffffff;
+}
+
+select {
+    font-size: xx-large;
+    padding: 10px;
+    border: 2px solid #3a7dd1;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #333333;
+    cursor: pointer;
+}
+
+select:hover {
+    border-color: #38c172; /* Verde al pasar el cursor */
+}
+
+th {
+    border: 3px solid rgb(98, 98, 255);
+    background: #3a7dd1; /* Azul más vibrante */
+    color: #ffffff;
+    text-shadow: 1px 1px #000000; /* Sombra para un toque 3D */
+    padding: 10px;
+    width: auto;
+}
+
+.brayan2 {
+    font-size: xx-large;
+    color: #3a3a3a;
+}
